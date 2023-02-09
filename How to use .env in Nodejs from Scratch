@@ -1,0 +1,7 @@
+How to use .env in NODEJS:
+1. Open the Node js then use command in terminal of Nodejs : npm init
+A package.json created, node modules and package-lock.json too created
+2. CMD: npm i dotenv for using the .env file
+Create the .env file and write fucntion as per requirement.
+
+in Main file use require("dotenv").config();
